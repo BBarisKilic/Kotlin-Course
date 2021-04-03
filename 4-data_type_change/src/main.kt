@@ -2,7 +2,7 @@ fun main(){
     //Data type change (int to long)
     val myInt = 10
     val myLong = myInt.toLong()
-    println(myLong)
+    println(myLong) 
 
     //Data type change (string to int)
     val userInput = "50"
